@@ -11,6 +11,7 @@ namespace Console1
         static void Main(string[] args)
         {
             Console.WriteLine("ciao");
+            Console.WriteLine("primo commit");
         }
     }
 }
