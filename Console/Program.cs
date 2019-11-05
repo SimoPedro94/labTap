@@ -10,9 +10,7 @@ namespace Console1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ciao");
-            Console.WriteLine("primo commit");
-            Console.WriteLine("checkout su beta");
+            Console.WriteLine("Hello world");
         }
     }
 }
