@@ -12,6 +12,7 @@ namespace Console1
         {
             Console.WriteLine("ciao");
             Console.WriteLine("primo commit");
+            Console.WriteLine("checkout su beta");
         }
     }
 }
