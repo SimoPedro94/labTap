@@ -12,6 +12,7 @@ namespace Console1
         {
             Console.WriteLine("Ciao mondo");
             Console.WriteLine("Ciao mondo bello");
+            Console.WriteLine("Ciao mondo brutto");
         }
     }
 }
