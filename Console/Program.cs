@@ -12,7 +12,7 @@ namespace Console1
         {
             Console.WriteLine("Ciao mondo");
             Console.WriteLine("Ciao mondo bello");
-            Console.WriteLine("Ciao mondo brutto");
+            Console.WriteLine("Ciao 3000 triliardi di mondi");
         }
     }
 }
