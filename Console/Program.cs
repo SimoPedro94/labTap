@@ -11,7 +11,7 @@ namespace Console1
         static void Main(string[] args)
         {
             Console.WriteLine("Ciao mondo");
-            Console.WriteLine("Ciao mondo bello");
+            Console.WriteLine("Ciao mondo bello degli ashura");
             Console.WriteLine("Ciao 3000 triliardi di mondi");
         }
     }
